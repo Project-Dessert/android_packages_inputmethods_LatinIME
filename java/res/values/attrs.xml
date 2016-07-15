@@ -242,7 +242,8 @@
             <enum name="LXXDark" value="4" />
             <enum name="You" value="6" />
             <enum name="HSDark" value="5" />
-            <enum name="Blackout" value="6" />
+            <enum name="HSLight" value="6" />
+            <enum name="Blackout" value="7" />
         </attr>
         <!-- Touch position correction -->
         <attr name="touchPositionCorrectionData" format="reference" />
@@ -489,7 +490,8 @@
             <enum name="LXXDark" value="4" />
             <enum name="You" value="6" />
             <enum name="HSDark" value="5" />
-            <enum name="Blackout" value="6" />
+            <enum name="HSLight" value="6" />
+            <enum name="Blackout" value="7" />
         </attr>
         <!-- This should be aligned with
              {@link com.android.inputmethod.keyboard.KeyboardId#MODE_TEXT} etc. -->
